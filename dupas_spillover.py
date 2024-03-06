@@ -35,7 +35,7 @@ plt.scatter(data_1['Long_home'], data_1['Lat_home'], c=cluster_labels)  # to che
 plt.colorbar(label='cluster_labels')
 plt.show()
 
-## CHECK IF PURCHASE RATE VARIES BY VILLAGE 
+## CHECK OF PURCHASE RATE VARIES BY VILLAGE 
 
 data_1['village'] = cluster_labels  # to add clusters as a column
 print(data_1.describe())  # to check if actually assigned 6 different values for village
