@@ -1,6 +1,6 @@
 Exploration on the data present on Pascaline Dupas' website regarding her 2014 paper "SHORT-RUN SUBSIDIES AND LONG-RUN ADOPTION OF NEWHEALTH PRODUCTS: EVIDENCE FROM A FIELD EXPERIMENT"
 
-- The RCT of the study was carried out on 6 villages in Kenya and consisted in randomly assigning different subsidised bed nets prices to 1200 households that could then chose to collect the net from a local retailer
+- The RCT was carried out on 6 villages in Kenya and consisted in randomly assigning different subsidised bed nets prices to 1200 households that could then chose to collect the net from a local retailer
 - As the distribution of vouchers (that gave the right to the subsidised price) was carryed out from April until October of 2007, a concern could be that being subject to information spillover and health spillover is not randomized, and that exposure to malaria is not too.
   - Assuming the voucher distribution happened village by village and that there can be information spillover between villages (distances varied from 10 to 50 km, which is quite a lot but not necessarily irrelevant), the first village receiving bed nets might have been subject to less information spillover compared to the last village that received them, as by that time the other villages were already treated
   - The same concept applies to health spillover, in certain conditions the mosquitos present there can fly up to 12 km, hence reaching other nearby villages and affecting randomization
