@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import numpy as np
 
-data = pd.io.stata.read_stata('C://Users//HP//Desktop//dupas//main_dataset.dta')  # to import data from Dupas website
+data = pd.io.stata.read_stata('main_dataset.dta')  # to import data from Dupas website
 
 # VISUALIZATION TO SEE WHERE VILLAGES ARE LOCATED
 
