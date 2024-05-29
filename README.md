@@ -6,7 +6,7 @@ Exploration on the data present on Pascaline Dupas' website regarding her 2014 p
   - The same concept applies to health spillover, in certain conditions the mosquitos present there can fly up to 12 km, hence reaching other nearby villages and affecting randomization
   - Finally, an 11 years study made in a close-by area showed that April and August are the months with the most cases of malaria reported, making the timing of treatment relevant
 - Unfurtunately, as a variable that tells when the voucher was given does not exist the doubt about randomization to malaria exposure cannot be somehow verified.
-- Comparing time to redeem the voucher, villages average differ significantly (52, 38, 33, 25, 8 ,7)
+- Comparing time to redeem the voucher, villages average differ significantly (52, 38, 33, 25, 8 and 7 days)
 - The purchase rate varied between villages, for the two pairs of villages that can be considered close in one the rate is both 40%, while in the others they are actually 30% and 70%.
 
 Mustapha et al. (2021). Secondary malaria vectors in western Kenya include novel species with unexpectedly high densities and parasite infection rates. Parasites & Vectors, 14(1). https://doi.org/10.1186/s13071-021-04748-9 
