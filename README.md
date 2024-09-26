@@ -22,7 +22,6 @@ Kaufmann & Briegel (2020). Flight performance of the malaria vectors Anopheles g
 Maniga et al. (2022). Trend of Malaria Burden Among Residents of Kisii County, Kenya After More Than a Decade Usage of Artemisinin Combined Therapies, 11–Year Laboratory Based Retrospective Study. Infection and Drug Resistance, Volume 15, 5221–5232. https://doi.org/10.2147/idr.s370218 
 
 
-
 ‌
 
 ‌
