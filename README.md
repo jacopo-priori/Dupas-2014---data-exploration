@@ -1,4 +1,4 @@
-Exploration of the data from Dupas (2014) available at https://sites.google.com/view/pascaline-dupas/research?authuser=0. 
+Exploration of the data from Dupas (2014) available at https://sites.google.com/view/pascaline-dupas/research?authuser=0
 
 <br><br>
 
