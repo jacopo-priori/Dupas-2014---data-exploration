@@ -1,4 +1,4 @@
-Exploration on the data present on Pascaline Dupas' website regarding her 2014 paper "SHORT-RUN SUBSIDIES AND LONG-RUN ADOPTION OF NEWHEALTH PRODUCTS: EVIDENCE FROM A FIELD EXPERIMENT"
+Exploration of the data from Pascaline Dupas' paper https://doi.org/10.3982/ECTA9508.
 
 - The RCT was carried out on 6 villages in Kenya and consisted in randomly assigning different subsidised bed nets prices to 1200 households that could then chose to collect the net from a local retailer
 - As the distribution of vouchers (that gave the right to the subsidised price) was carryed out from April until October of 2007, a concern could be that being subject to information spillover and health spillover is not randomized, and that exposure to malaria is not too.
@@ -8,6 +8,7 @@ Exploration on the data present on Pascaline Dupas' website regarding her 2014 p
 - Unfurtunately, as a variable that tells when the voucher was given does not exist the doubt about randomization to malaria exposure cannot be somehow verified.
 - Comparing time to redeem the voucher, villages average differ significantly (52, 38, 33, 25, 8 and 7 days)
 - The purchase rate varied between villages, for the two pairs of villages that can be considered close in one the rate is both 40%, while in the others they are actually 30% and 70%.
+
 
 Mustapha et al. (2021). Secondary malaria vectors in western Kenya include novel species with unexpectedly high densities and parasite infection rates. Parasites & Vectors, 14(1). https://doi.org/10.1186/s13071-021-04748-9 
 
